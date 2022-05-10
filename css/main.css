@@ -1,0 +1,26 @@
+
+
+#text{
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: large;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: large;
+}
+
+#dummy{
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: x-large;
+}
+
+#iframe300x600{
+    float: right;
+}
