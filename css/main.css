@@ -1,13 +1,16 @@
 
+body{
+   background-color: limegreen;
+}
 
-#text{
+h1{
     color: black;
     text-align: center;
     font-family: Arial;
     font-size: large;
 }
 
-h1{
+#text{
     color: black;
     text-align: center;
     font-family: Arial;
@@ -24,3 +27,4 @@ h1{
 #iframe300x600{
     float: right;
 }
+
