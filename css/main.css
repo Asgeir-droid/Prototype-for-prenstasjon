@@ -17,6 +17,10 @@ h1{
     font-size: large;
 }
 
+#img1{
+    text-align: center;
+}
+
 #dummy{
     color: black;
     text-align: center;
@@ -28,3 +32,6 @@ h1{
     float: right;
 }
 
+#hp{
+    text-align: center;
+}
